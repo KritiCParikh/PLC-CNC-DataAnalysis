@@ -15,22 +15,22 @@ This project was approached systematically to simulate, analyze, and optimize th
 - Synthetic real-time data was generated to replicate the operational conditions of CNC machines, inspired by my experience at Bharat Heavy Electricals Limited (BHEL).
 - Key performance metrics such as processor load, memory usage, power supply voltage, and cycle time were simulated to reflect typical machine operations.
 
-### 2. Detecting Anomalies
+### 2. Conducting Root Cause Analysis
+
+- Root causes of detected anomalies and performance bottlenecks were investigated.
+- Correlations between issues and specific components or operational conditions, such as spikes in processor load or memory usage, were identified and analyzed.
+
+### 3. Detecting Anomalies
 
 - Algorithms were developed and implemented to detect anomalies within the simulated data.
 - Statistical and machine learning techniques, including Z-score analysis and moving averages, were employed to identify performance degradation, error spikes, and power supply irregularities.
 - Abnormal behavior in the CNC operations was flagged for further investigation.
 
-### 3. Calculating Performance Metrics
+### 4. Calculating Performance Metrics
 
 - Overall Equipment Effectiveness (OEE) was calculated to measure the CNC machines' availability, performance, and quality.
 - Mean Time Between Failures (MTBF) was determined to assess the reliability of the machines.
 - The impact of detected anomalies on these performance metrics was thoroughly analyzed.
-
-### 4. Conducting Root Cause Analysis
-
-- Root causes of detected anomalies and performance bottlenecks were investigated.
-- Correlations between issues and specific components or operational conditions, such as spikes in processor load or memory usage, were identified and analyzed.
 
 ### 5. Visualization Findings
 
