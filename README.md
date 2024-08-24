@@ -23,7 +23,7 @@ This project was approached systematically to simulate, analyze, and optimize th
 ### 3. Detecting Anomalies
 
 - Algorithms were developed and implemented to detect anomalies within the simulated data.
-- Statistical and machine learning techniques, including Z-score analysis and moving averages, were employed to identify performance degradation, error spikes, and power supply irregularities.
+- Statistical and machine learning (ML) techniques, including Z-score analysis and moving averages, were employed to identify performance degradation, error spikes, and power supply irregularities.
 - Abnormal behavior in the CNC operations was flagged for further investigation.
 
 ### 4. Calculating Performance Metrics
