@@ -32,7 +32,7 @@ This project was approached systematically to simulate, analyze, and optimize th
 - Root causes of detected anomalies and performance bottlenecks were investigated.
 - Correlations between issues and specific components or operational conditions, such as spikes in processor load or memory usage, were identified and analyzed.
 
-### 5. Visualizing Findings
+### 5. Visualization Findings
 
 - Visualizations were created to effectively communicate the findings and recommendations.
 
