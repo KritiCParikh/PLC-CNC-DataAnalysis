@@ -6,6 +6,23 @@ The project is focused on analyzing data collected from Programmable Logic Contr
 
 This project was inspired by my experience at Bharat Heavy Electricals Limited (BHEL), where I worked as a Trainee, Data. During my time there, I gained hands-on experience with the various components of CNC machines and developed an understanding of the critical role PLCs play in industrial automation and manufacturing. Building on this foundation, I further advanced into this data analysis project to simulate real-world industrial conditions, detect potential issues, and recommend betterment strategies. By identifying performance bottlenecks, error patterns, and other inefficiencies, this project strives to offer practical suggestions to enhance the operational effectiveness of CNC machines.
 
+## Skills and Technologies
+
+* Python Programming: Extensive use of Python for data analysis, machine learning, and visualization.
+* Data Analysis: Utilizing pandas and numpy for data manipulation and analysis.
+* Machine Learning: Implementing anomaly detection (Isolation Forest), clustering (KMeans), and predictive modeling (Random Forest).
+* Data Visualization: Creating insightful visualizations using matplotlib and seaborn.
+* Statistical Analysis: Applying statistical methods like Z-score for anomaly detection.
+* Time Series Analysis: Working with time-stamped data to analyze trends and patterns.
+* Industrial Automation: Understanding and simulating Programmable Logic Controller (PLC) data in the context of CNC machines.
+
+### Business Impact:
+
+- Operational Excellence: By analyzing PLC performance, detecting anomalies, and implementing predictive maintenance, companies can enhance productivity, reduce cycle times, and minimize unplanned downtime.
+- Cost Optimization: Through improved efficiency, energy optimization, and reduced maintenance costs, companies can achieve substantial cost savings. The project provides estimates for potential annual savings and downtime reduction.
+- Data-Driven Insights: Actionable recommendations based on data analysis enable informed decision-making in areas such as maintenance scheduling, machine optimization, and resource allocation.
+- Quality and Sustainability: Better understanding of machine behavior leads to improved product quality and consistency. Energy consumption analysis promotes sustainability efforts and reduces operational costs.
+
 ## Steps Taken
 
 This project was approached systematically to simulate, analyze, and optimize the performance of CNC machines, inspired by real-world industrial scenarios. Below are the key steps undertaken:
